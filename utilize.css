@@ -1,5 +1,6 @@
 .text-center {
-    text-align: right;
+    text-align: center;
+    color: rgb(182, 57, 57);
 }
 
 .bg-red {
@@ -20,4 +21,11 @@
 
 .items-center {
     align-items: center;
+}
+.leftCE{
+    
+    background-color: rgb(226, 222, 222);
+}
+.equalto{
+    background-color: rgb(109, 109, 168);
 }
