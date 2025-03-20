@@ -66,3 +66,6 @@ resource "aws_instance" "hriday_server" {
     volume_type = "gp2"
   }
 }
+
+"AKIAQYEI46PTPQ6VEA55"
+"BZkgBaZXHZcAvtJZ/MmumtsaqoiuFRxY8ojMhWlI"
